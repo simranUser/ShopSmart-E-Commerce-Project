@@ -1,0 +1,165 @@
+.center
+{
+    text-align:center;
+}
+.heading
+{
+    color:rgb(3, 178, 201);
+    font-weight:bolder;
+}
+#productSubmit
+{
+    margin-left:450px;
+    background:rgb(3, 178, 201);
+}
+#description
+{
+    width:1000px;
+    border:0px;
+}
+#productForm
+{
+    width:1000px;
+    margin:auto;
+}
+.catid
+{
+    color:rgb(147, 147, 147);
+}
+.scroll
+{
+    overflow:scroll;
+}
+body
+{
+    background:#F8F8F8;
+}
+#carticon
+{
+    margin-top:-83px;
+    margin-left:1065px;
+    position:absolute;
+}
+.dropdown-menu.show {
+    display: block;
+    width: 300px;
+    margin-left: -50px;
+    padding: 20px;
+}
+.cart-detail
+{
+    
+    padding:10px;
+    margin:10px;
+}
+#vendorfilter
+{
+    margin-left:20px;
+    border:0px;
+    padding:5px;
+    border-radius:7px;
+}
+#addcategorybtn
+{
+    background:#2196f3;
+}
+#vendorheading
+{
+    margin-top:70px;
+    margin-left:80px;
+    color:grey;
+    font-weight:bolder;
+}
+
+.thumbnail 
+{
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+    background:rgb(215, 214, 214);
+    padding:10px;
+    border-radius:3px;
+}
+.thumbnail img 
+{
+    width: 80%;
+    height:200px;
+    margin-left:10%;
+    border-radius:3px;
+}
+.thumbnail .caption
+{
+    margin: 7px;
+    text-align:center;
+}
+.main-section
+{
+    background-color: #F8F8F8;
+}
+.fullwidth
+{
+    width:1200px;
+}
+
+
+
+
+.dropdown{
+    float:right;
+    padding-right: 30px;
+}
+.btn{
+    border:0px;
+    margin:10px 0px;
+    box-shadow:none !important;
+}
+.dropdown .dropdown-menu{
+    padding:20px;
+    top:30px !important;
+    width:350px !important;
+    left:-110px !important;
+    box-shadow:0px 5px 30px black;
+}
+.total-header-section{
+    border-bottom:1px solid #d2d2d2;
+}
+.total-section p{
+    margin-bottom:20px;
+}
+.cart-detail{
+    padding:15px 0px;
+}
+.cart-detail-img img{
+    width:100%;
+    height:100%;
+    padding-left:15px;
+}
+.cart-detail-product p{
+    margin:0px;
+    color:#000;
+    font-weight:500;
+}
+.cart-detail .price{
+    font-size:12px;
+    margin-right:10px;
+    font-weight:500;
+}
+.cart-detail .count{
+    color:#C2C2DC;
+}
+.checkout{
+    border-top:1px solid #d2d2d2;
+    padding-top: 15px;
+}
+.checkout .btn-primary{
+    border-radius:50px;
+    height:50px;
+}
+.dropdown-menu:before{
+    content: " ";
+    position:absolute;
+    top:-20px;
+    right:50px;
+    border:10px solid transparent;
+    border-bottom-color:#fff;
+}
